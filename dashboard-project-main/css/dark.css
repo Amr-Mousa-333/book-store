@@ -1,0 +1,93 @@
+body#dark {
+    background: #28333f !important;
+}
+
+#dark .bottom-navbar,
+#dark .top-navbar {
+    background: #252a33!important;
+}
+
+#dark .bg-basic,
+#dark .sidebar {
+    background: #0f151a;
+}
+
+#dark .dropdown-menu a,
+#dark .dropdown-menu .darkMode,
+#dark .dropdown-title {
+    color: rgb(230, 230, 230) !important;
+}
+
+#dark .dropdown-menu .dropdown-item:hover,
+#dark .dropdown-menu .darkMode:hover {
+    background: rgba(165, 164, 164, 0.116) !important;
+}
+
+#dark .dropdown-menu .dropdown-item {
+    border-bottom: 1px solid rgba(169, 169, 169, 0.123);
+}
+
+#dark .dropdown-menu,
+#dark .dropdown-menu .nav-link.dropdown-toggle {
+    background: #242c33 !important;
+}
+
+
+#dark .dashboard-card .card {
+    border-color: rgba(169, 169, 169, 0.082);
+    background: #161c27db;
+}
+
+#dark .top-group-btn .card-header {
+    border-color: #0f1a2ecb;
+    background: #040913c9 !important;
+}
+
+#dark.top-group-btn {
+    border: none;
+}
+
+#dark .top-group-btn h4.text-center {
+    color: hsl(0, 1%, 80%);
+}
+
+#dark .top-group-btn svg {
+    color: hsl(0, 1%, 80%);
+}
+
+#dark .dashboard-card .card-title {
+    border: 1px solid rgba(169, 169, 169, 0.027) !important;
+    color: hsl(0, 1%, 80%);
+}
+
+#dark .bottom-navbar .nav-link,
+#dark .top-navbar .nav-link,
+#dark .sidebar .nav-link {
+    color: hsl(0, 1%, 80%);
+}
+
+#dark .create-btn .input-group-prepend a {
+    color: hsl(0, 1%, 80%);
+}
+
+#dark .sidebar .nav-link:hover,
+#dark .sidebar .active {
+    color: rgb(166, 179, 255);
+    background: #212a35cb;
+}
+
+#dark .sidebar .nav-item {
+    border-bottom: 1px solid rgba(223, 225, 255, 0.082);
+}
+
+#darkc.sidebar .dropdown-content a {
+    color: rgb(230, 230, 230) !important;
+}
+
+#dark .sidebar .dropdown-content a:hover {
+    color: rgb(68, 68, 68) !important;
+}
+
+#dark footer {
+    color: darkgray;
+}
